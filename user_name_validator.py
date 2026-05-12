@@ -1,3 +1,5 @@
+# username validator , for accurate user name suggestion
+
 """
 Username Validator
 Rules:
